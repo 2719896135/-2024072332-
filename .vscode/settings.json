@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/doc-049/ev_test_ws/install/my_package/lib/python3.12/site-packages",
+        "/home/doc-049/town_ws/build/village_li",
+        "/home/doc-049/town_ws/install/village_li/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/doc-049/ev_test_ws/install/my_package/lib/python3.12/site-packages",
+        "/home/doc-049/town_ws/build/village_li",
+        "/home/doc-049/town_ws/install/village_li/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

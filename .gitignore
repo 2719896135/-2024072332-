@@ -1,0 +1,12 @@
+# 忽略 build 和 install 目录
+/build/
+/install/
+/log/
+
+# 忽略 Python 字节码文件
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+
